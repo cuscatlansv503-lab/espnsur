@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://200.10.30.241:8000/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://200.10.30.241:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://200.10.30.241:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://200.10.30.241:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD
+http://200.10.30.241:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://200.10.30.241:8000/play/a03c/index.m3u8
