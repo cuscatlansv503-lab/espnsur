@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",ESPN 2 HD
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+http://38.226.49.253:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3 HD
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
+http://38.226.49.253:8000/play/a07g/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 4 HD
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
+http://38.226.49.253:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 5HD
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
+http://38.226.49.253:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 6HD
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8
+http://38.226.49.253:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7HD
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn7-mux/playlist.m3u8
+http://38.226.49.253:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/playlist.m3u8
+http://38.226.49.253:8000/play/a07l/index.m3u8
